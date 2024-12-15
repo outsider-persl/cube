@@ -44,7 +44,7 @@
 ### 最后
 - jdk : 17 LTS
 - 运行: ./build.sh && java -jar out/cube.jar
-- github: 
+- github: git@github.com:outsider-persl/cube.git
 
 
 
